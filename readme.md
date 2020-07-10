@@ -2,7 +2,7 @@
 ## Tong
 ## 16132040 IT
 
-![GitHub sytama](/images/sytama.jpg)
+![GitHub sytama](https://fbi.dek-d.com/27/0680/3823/129170363)
 
 วิชา | เกรด
 ------------ | -------------
