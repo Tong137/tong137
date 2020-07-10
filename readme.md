@@ -1,7 +1,7 @@
 ### Weha saensong
 ## Tong
 ## 16132040 IT
-![GitHub Logo](/images/sytama.jpg)
+![GitHub sytama](/images/sytama.jpg)
 Format: ![Alt Text](url)
 วิชา | เกรด
 ------------ | -------------
